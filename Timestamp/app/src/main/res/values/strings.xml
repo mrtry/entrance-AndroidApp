@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Timestamp</string>
+    <string name="btnCurrent">現在時刻</string>
+    <string name="txtResult">取得した時刻がココに出るよ</string>
 </resources>
